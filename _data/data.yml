@@ -7,79 +7,66 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Khadija Hafeez
+    tagline: System Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: khadija.hafeez328@gmail.com
+    website: #blog.webjeda.com #do not add http://
+    linkedin: khadija-hafeez
+    github: 
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: #'@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
     languages:
-      - idiom: English
+      - idiom: Urdu
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
+      - idiom: English
         level: Professional
         
     interests:
-      - item: Climbing
+      - item: Reading
         link:
 
-      - item: Snowboarding
+      - item: Table Tanis
         link:
 
-      - item: Cooking
+      - item: Baking
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      I am Khadija, currently working as a System Engineer at Inara Technologies. 
+      I am also interested in exploring areas of data analytics and system design for internet of things (IoT).Prior to joining indusry job,
+      I was at LUMS working on designing IoT systems for energy-efficient built environments, data analytics, with Dr. Hamad Alizai .
+      I was once the TA for a Internet of Things (600 level) course at LUMS.
 
-      Second paragraph if required.
+      In my free time I read books and cook food. You can [download my CV]().
+      
 
 education:
     - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+      university: Lahore University of Management Sciences
+      time: 2015 - 2017
+    
+    - degree: BE in Software Engineering
+      university: National University of Science And Technology
+      time: 2010 - 2014
+#       details: |
+#         Describe your study here lorem ipsum dolor sit amet, consectetuer
+#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+#         sociis natoque penatibus et magnis dis parturient montes, nascetur
+#         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+#         pretium quis, sem.
 
-          - Bullet point
-          - Bullet point 
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
+#           - Bullet point
+#           - Bullet point 
 
 experiences:
     - role: Lead Developer
@@ -99,31 +86,7 @@ experiences:
           - Bullet point
           - Bullet point 
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+    
 
 projects:
     title: Projects
@@ -181,19 +144,16 @@ skills:
         level: 98%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 70%
 
       - name: Angular
-        level: 98%
+        level: 80%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Illustrator & Photoshop
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
