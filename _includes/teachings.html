@@ -2,7 +2,7 @@
 {% if teachings %}
 <section >
 
-  <h2 class="section-title">
+  <h2 class="section-title projects-section">
     <span class="fa-stack fa-xs">
     <i class="fas fa-circle fa-stack-2x"></i>
     <i class="fas fa-archive fa-stack-1x fa-inverse"></i>  
@@ -18,12 +18,12 @@
   {% for teaching in teachings.assignments %}
       <div class="item">
 
-        <span >
+        <span  class="project-title">
           <a href="{{ teaching.link }}">{{ teaching.title }}</a>
         </span>
 
         {% if teaching.tagline %}
-        - <span >{{ teaching.tagline }}</span>
+        - <span class="project-tagline >{{ teaching.tagline }}</span>
         {% endif %}
 
       </div><!--//item-->
