@@ -79,7 +79,9 @@ education:
 
 
 teachings:
-    title: Teacher Assistant 
+    title: Teaching 
+    intro: > as a Teacher Assistant
+      
     assignments:
       - title: Intro to Computer Programming
         link: 
@@ -90,8 +92,9 @@ teachings:
 
 awards:
     title: Awards
+    intro: > abc
+     
     assignments:
-      
       - title: Third poistion in Final Year Projects Open House at NUST (2014)
         tagline:
         link: 
