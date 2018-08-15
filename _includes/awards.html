@@ -1,0 +1,34 @@
+{% assign awards = site.data.data.awards %}
+{% if awards %}
+<section class="section projects-section">
+
+  <h2 class="section-title">
+    <span class="fa-trophy fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ awards.title }}
+  </h2>
+
+  {% if awards.intro %}
+  <div class="intro">
+      <p>{{ awards.intro }}</p>
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for award in awards.assignments %}
+      <div class="item">
+
+        <span class="project-title">
+          <a href="{{ award.link }}">{{ award.title }}</a>
+        </span>
+
+        {% if award.tagline %}
+        - <span class="project-tagline">{{ award.tagline }}</span>
+        {% endif %}
+
+      </div><!--//item-->
+    {% endfor %}
+
+</section><!--//section-->
+{% endif %}
