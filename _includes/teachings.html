@@ -1,6 +1,6 @@
 {% assign teachings = site.data.data.teachings %}
 {% if teachings %}
-<section class="section projects-section">
+<section >
 
   <h2 class="section-title">
     <span class="fa-book fa-xs">
@@ -18,12 +18,12 @@
   {% for teaching in teachings.assignments %}
       <div class="item">
 
-        <span class="project-title">
+        <span >
           <a href="{{ teaching.link }}">{{ teaching.title }}</a>
         </span>
 
         {% if teaching.tagline %}
-        - <span class="project-tagline">{{ teaching.tagline }}</span>
+        - <span >{{ teaching.tagline }}</span>
         {% endif %}
 
       </div><!--//item-->
