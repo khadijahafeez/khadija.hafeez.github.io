@@ -85,29 +85,32 @@ teachings:
       
     assignments:
       - title: Intro to Computer Programming
-        link: 
+        link: #
         tagline: "CS-200 LUMS (2016-Spring Semester)"
+        
       - title: Object Oriented Programming with C++
+        link: #
         tagline: "NUST (2013-Fall Semester)"
-        link: 
+         
 
 awards:
     title: Awards
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+       Achievements
      
     assignments:
       - title: Third poistion in Final Year Projects Open House at NUST (2014)
-        tagline:
         link: 
+        tagline:
+       
       - title: Merit Based Scholarship for three semesters in BE-Software Engineering
+        link:
         tagline:
-        link: 
+         
       - title: Letter of Appreciation on resposible behaviour as a Class Representative (2013)
+        link:
         tagline:
-        link: 
+       
       
 
 projects:
