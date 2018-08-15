@@ -169,7 +169,7 @@
   vertical-align: middle;
   width: 2em; }
 
-.fa-stack-1x,
+fa-stack-1x,
 .fa-stack-2x {
   left: 0;
   position: absolute;
@@ -180,6 +180,51 @@
   line-height: inherit; }
 
 .fa-stack-2x {
+  font-size: 2em; }
+
+
+
+.fa-trophy {
+  display: inline-block;
+  height: 2em;
+  line-height: 2em;
+  position: relative;
+  vertical-align: middle;
+  width: 2em; }
+
+fa-trophy-1x,
+.fa-trophy-2x {
+  left: 0;
+  position: absolute;
+  text-align: center;
+  width: 100%; }
+
+.fa-trophy-1x {
+  line-height: inherit; }
+
+.fa-trophy-2x {
+  font-size: 2em; }
+
+
+.fa-book {
+  display: inline-block;
+  height: 2em;
+  line-height: 2em;
+  position: relative;
+  vertical-align: middle;
+  width: 2em; }
+
+.fa-book-1x,
+.fa-book-2x {
+  left: 0;
+  position: absolute;
+  text-align: center;
+  width: 100%; }
+
+.fa-book-1x {
+  line-height: inherit; }
+
+.fa-book-2x {
   font-size: 2em; }
 
 .fa-inverse {
