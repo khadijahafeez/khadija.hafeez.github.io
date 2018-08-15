@@ -82,21 +82,27 @@ teachings:
     title: Teacher Assistant 
     assignments:
       - title: Intro to Computer Programming
+        link: 
         tagline: "CS-200 LUMS (2016-Spring Semester)"
       - title: Object Oriented Programming with C++
         tagline: "NUST (2013-Fall Semester)"
+        link: 
 
 awards:
     title: 
     assignments:
       - title: [Audience Choice Best Paper Award](http://buildsys.acm.org/2017/) at ACM BuildSys (2017)
+         link: 
         tagline: 
       - title: Third poistion in Final Year Projects Open House at NUST (2014)
         tagline:
+        link: 
       - title: Merit Based Scholarship for three semesters in BE-Software Engineering
         tagline:
+        link: 
       - title: Letter of Appreciation on resposible behaviour as a Class Representative (2013)
         tagline:
+        link: 
       
 
 projects:
