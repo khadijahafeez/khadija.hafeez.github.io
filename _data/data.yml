@@ -87,6 +87,7 @@ teachings:
         tagline: "NUST (2013-Fall Semester)"
 
 awards:
+    title: 
     assignments:
       - title: [Audience Choice Best Paper Award](http://buildsys.acm.org/2017/) at ACM BuildSys (2017)
         tagline: 
