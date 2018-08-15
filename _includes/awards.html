@@ -14,8 +14,8 @@
   {% for award in awards.assignments %}
       <div class="item">
 
-        <span class="project-title">
-          <a href="{{ award.link }}">{{ award.title }}</a>
+        <span>
+          {{ award.title }}
         </span>
 
         {% if award.tagline %}
