@@ -80,7 +80,8 @@ education:
 
 teachings:
     title: Teaching 
-    intro: > as a Teacher Assistant
+    intro: >
+      As a Teacher Assistant
       
     assignments:
       - title: Intro to Computer Programming
@@ -92,7 +93,10 @@ teachings:
 
 awards:
     title: Awards
-    intro: > abc
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
      
     assignments:
       - title: Third poistion in Final Year Projects Open House at NUST (2014)
