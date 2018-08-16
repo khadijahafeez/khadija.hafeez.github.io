@@ -120,13 +120,16 @@ awards:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section.
+      I have been involved in several R&D projects particularly in the field of IoTs,
+      data analytics, and software development. Some of these projects include:
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Hawadaar
+        link: http://web.lums.edu.pk/~alizai/pubs/2017-hafeez-hawadaar.pdf
+        tagline: " An IoT-based retrofitted HVAC system for personalized comfort that provides centralized control abstraction 
+        to efficiently air-condition traditional buildings, lacking HVAC, using distributed legacy devices such as heater and AC units. 
+        Hawadaar can save up to 6% of electricity per capita in residential and commercial sectors — resulting in a substantial countrywide impact in Pakistan.
+        (ACM BuildSys Paper)"
 
       - title: DevStudio
         link: "#"
