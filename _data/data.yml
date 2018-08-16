@@ -46,7 +46,7 @@ career-profile:
       I am also interested in exploring areas of data analytics and system design for internet of things (IoT).Prior to joining indusry job,
       I was at LUMS working on designing IoT systems for energy-efficient built environments, data analytics, with Dr. Hamad Alizai .
 
-      In my free time I read books and cook food. You can [download my CV]().
+      In my free time I read books and cook food. You can download my [CV]().
       
 
 education:
@@ -85,12 +85,12 @@ teachings:
       
     assignments:
       - title: Intro to Computer Programming
-        link: #
-        tagline: "CS-200 LUMS (2016-Spring Semester)"
+        link: http://web.lums.edu.pk/~alizai/
+        tagline: "CS-200 LUMS (2016-Spring Semester) Dr. Hammad"
         
       - title: Object Oriented Programming with C++
         link: #
-        tagline: "NUST (2013-Fall Semester)"
+        tagline: "NUST (2013-Fall Semester) Shumyl Bin Mansoor"
          
 
 awards:
@@ -121,8 +121,7 @@ projects:
     title: Projects
     intro: >
       You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      section.
 
     assignments:
       - title: Velocity
@@ -136,11 +135,10 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section.
+    intro: 
 
     papers:
-      - title: "Inverting HVAC for Energy Efficient Thermal Comfort in Populous Emerging Countries"
+      - title: "”Inverting HVAC for Energy Efficient Thermal Comfort in Populous Emerging Countries”"
         link: http://web.lums.edu.pk/~alizai/pubs/2017-hafeez-hawadaar.pdf
         authors: Khadija Hafeez, Yasra Chandio, Abu Bakar, Ayesha Ali, Affan A. Syed, Tariq M. Jadoon, Muhammad Hamad Alizai
         conference: ACM International Conference on Systems for Energy-Efficient Built Environments (BuildSys), 2017 Best Paper Award (Audience Choice).
