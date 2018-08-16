@@ -121,7 +121,7 @@ projects:
     title: Projects
     intro: >
       I have been involved in several R&D projects particularly in the field of IoTs,
-      data analytics, and software development. Some of these projects include:
+      data analytics, technology  and software development. Some of these projects include:
 
     assignments:
       - title: Hawadaar
@@ -131,9 +131,10 @@ projects:
         Hawadaar can save up to 6% of electricity per capita in residential and commercial sectors — resulting in a substantial countrywide impact in Pakistan.
         (ACM BuildSys Paper)"
 
-      - title: DevStudio
+      - title: LearnQuran
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "An educational web application for providing a better understanding of the morphological and lexical analysis
+        of Quranic Arabic and its various colloquial parts of speech. "
 
 
 publications:
