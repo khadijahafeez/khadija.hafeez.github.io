@@ -130,11 +130,19 @@ projects:
         to efficiently air-condition traditional buildings, lacking HVAC, using distributed legacy devices such as heater and AC units. 
         Hawadaar can save up to 6% of electricity per capita in residential and commercial sectors — resulting in a substantial countrywide impact in Pakistan.
         (ACM BuildSys Paper)"
+        
+      - title: CrowdFeed
+        link: "#"
+        tagline: "A location-aware context-sensitive crowdsourcing platform to help people utilize their spare time efficiently and 
+        enjoyably by performing assigned tasks on their mobile phones and gain some reward, discount or non-monetary benefit in return.
+        The captured context helps context-aware experience sampling from the right person at right place and right time for the benefit of 
+        both task performer and task giver. "
 
       - title: LearnQuran
         link: "#"
         tagline: "An educational web application for providing a better understanding of the morphological and lexical analysis
-        of Quranic Arabic and its various colloquial parts of speech. "
+        of Quranic Arabic and its various colloquial parts of speech.We used the technique called the total physical interaction (TPI)
+        to ensure quick learning of the language in a comprehensive manner. " (Third Prize in NUST-SEECS Open House,2014)
 
 
 publications:
