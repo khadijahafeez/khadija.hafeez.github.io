@@ -43,8 +43,8 @@ career-profile:
     title: Career Profile
     summary: |
       I am Khadija, currently working as a System Engineer at Inara Technologies. 
-      I am also interested in exploring areas of data analytics and system design for internet of things (IoT).Prior to joining industry job,
-      I was at [SysNet Lab](https://sysnet.lums.edu.pk),LUMS working on designing IoT systems for energy-efficient built environments, 
+      I am interested in exploring areas of Data Analytics and System Design for Internet of Things (IoT) in the light of Human Computer Interaction.Prior to joining industry job,
+      I was at [SysNet Lab](https://sysnet.lums.edu.pk),LUMS working on designing IoT systems for thermal comfort and energy-efficient built environments, 
       data analytics, with [Dr. Hamad Alizai](http://web.lums.edu.pk/~alizai/) .
 
       In my free time I read books and cook food. You can download my [CV](https://khadijahafeez.github.io/cv/).
@@ -121,7 +121,7 @@ projects:
     title: Projects
     intro: >
       I have been involved in several R&D projects particularly in the field of IoTs,
-      data analytics, technology  and software development. Some of these projects include:
+      data analytics and software development. Some of these projects include:
 
     assignments:
       - title: Hawadaar
@@ -136,7 +136,7 @@ projects:
         tagline: "A location-aware context-sensitive crowdsourcing platform to help people utilize their spare time efficiently and 
         enjoyably by performing assigned tasks on their mobile phones and gain some reward, discount or non-monetary benefit in return.
         The captured context helps context-aware experience sampling from the right person at right place and right time for the benefit of 
-        both task performer and task giver."
+        both the task performer and the task giver."
         
       - title: LearnQuran
         link: "#"
