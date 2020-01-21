@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Khadija Hafeez
-    tagline: System Engineer
+    tagline: Software Engineer
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -42,8 +42,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am Khadija, currently working as a System Engineer at Inara Technologies. 
-      I am interested in exploring areas of Data Analytics and System Design for Internet of Things (IoT) in the light of Human Computer Interaction.Prior to joining industry job,
+      I am Khadija, currently working as a Research Associate at Blockchain Lab Information Technology University Lahore. Previously, I have worked as a Software Engineera at [Inara Technologies](https://inara.pk/en/)for two years and I am still consultant Senior Software Engineer there.  
+      I am interested in exploring areas of Crptography particulaly Blockchain technology and System Design for Internet of Things (IoT). Prior to joining industry job,
       I was at [SysNet Lab](https://sysnet.lums.edu.pk),LUMS working on designing IoT systems for thermal comfort and energy-efficient built environments, with [Dr. Hamad Alizai](http://web.lums.edu.pk/~alizai/) .
 
       In my free time I read books and cook food. You can download my [CV](https://khadijahafeez.github.io/cv/).
