@@ -79,7 +79,7 @@ experiences:
 
 
 teachings:
-    title: Teaching 
+    title: Teaching and Ressearch
     intro: >
       I worked as a Teaching Assistant for the following courses:
       
@@ -92,9 +92,9 @@ teachings:
         link: #
         tagline: "NUST (2013-Fall Semester) Shumyl Bin Mansoor"
          
-   title: Research 
+#    title: Research 
     
-    assignments:
+#     assignments:
     
       - title: Research Associate  
         link: http://blockchain.itu.edu.pk
