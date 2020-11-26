@@ -66,14 +66,14 @@ education:
       time: 2010 - 2014
  
 
-# experiences:
-#     - role: Software Engineer
-#       time: 2017 - 2019
-#       company: Inara Technologies Pvt. Pakistan
-#       details: Durring my time in Inara I got wholesome experience in documenting, designing using BPMN models to implementing the enterprise systems,
-#       integration and creation of tools using cutting edge technologies like Django as backend python framework and AngularJS as frontend. 
-#       As for the database, I have worked with PostgreSQL and celery with rabbitMQ for Asynchronous Task execution. I started as a rookie and within three years ended up
-#       training multiple employees all becasue of the trust and support of managemnt of our Progect Director [Hilal Afridi](https://www.linkedin.com/in/hilal-afridi-a0a8319)
+experiences:
+    - role: Software Engineer
+      time: 2017 - 2019
+      company: Inara Technologies Pvt. Pakistan
+      details: Durring my time in Inara I got wholesome experience in documenting, designing using BPMN models to implementing the enterprise systems,
+      integration and creation of tools using cutting edge technologies like Django as backend python framework and AngularJS as frontend. 
+      As for the database, I have worked with PostgreSQL and celery with rabbitMQ for Asynchronous Task execution. I started as a rookie and within three years ended up
+      training multiple employees all becasue of the trust and support of managemnt of our Progect Director [Hilal Afridi](https://www.linkedin.com/in/hilal-afridi-a0a8319)
         
 
 
@@ -91,18 +91,17 @@ teachings:
       - title: Object Oriented Programming with C++
         link: #
         tagline: "NUST (2013-Fall Semester) Shumyl Bin Mansoor"
-         
-#    title: Research 
-    
-#     assignments:
-    
-#       - title: Research Associate  
-#         link: http://blockchain.itu.edu.pk
-#         tagline: "Blockchain based PKI Protocol with Dr. Muhammad Umar Janjua"
         
-#       - title: Research Assistant 
-#         link: https://sysnet.lums.edu.pk
-#         tagline: "Energy efficient IoT solutions for smart homes with Dr. Hamad Alizai"
+      - title: Research Associate  
+        link: http://blockchain.itu.edu.pk
+        tagline: "Blockchain based PKI Protocol with Dr. Muhammad Umar Janjua"
+        
+      - title: Research Assistant 
+        link: https://sysnet.lums.edu.pk
+        tagline: "Energy efficient IoT solutions for smart homes with Dr. Hamad Alizai"
+              
+         
+
                
 
 awards:
