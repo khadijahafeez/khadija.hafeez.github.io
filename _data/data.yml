@@ -42,14 +42,21 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am Khadija, currently working as a Research Associate at Blockchain Lab Information Technology University Lahore. Previously, I have worked as a Software Engineera at [Inara Technologies](https://inara.pk/en/)for two years and I am still consultant Senior Software Engineer there.  
+      I am Khadija, a PhD. student working with [Dr. Mubashir Hussain Rehmani](https://scholar.google.com.pk/citations?user=x4OZtdAAAAAJ&hl=en) and [Dr. Donna Oshea](https://connectcentre.ie/people/donna-oshea/) at Nimbus Research Center, Cork Institue of Technology with research focus on preserving privacy of IoT devices data.
+      I worked as Research Associate at Blockchain Lab Information Technology University Lahore for one year before starting my PhD. Previously, I have worked as a Software Engineera at [Inara Technologies](https://inara.pk/en/)for three years.  
       I am interested in exploring areas of Crptography particulaly Blockchain technology and System Design for Internet of Things (IoT). Prior to joining industry job,
       I was at [SysNet Lab](https://sysnet.lums.edu.pk),LUMS working on designing IoT systems for thermal comfort and energy-efficient built environments, with [Dr. Hamad Alizai](http://web.lums.edu.pk/~alizai/) .
 
-      In my free time I read books and cook food. You can download my [CV](https://khadijahafeez.github.io/cv/).
+      In my free time I like to read books, code Jams and cook food. 
+      You can download my [CV](https://khadijahafeez.github.io/cv/).
       
 
 education:
+
+     - degree: PhD in Computer Science
+      university: Cork Institute of Technology
+      time: 2019 - Present
+      
     - degree: MS in Computer Science
       university: Lahore University of Management Sciences
       time: 2015 - 2017
@@ -59,23 +66,16 @@ education:
       time: 2010 - 2014
  
 
-# experiences:
-#     - role: Lead Developer
-#       time: 2015 - Present
-#       company: Startup Hubs, San Francisco
-#       details: |
-#         Describe your role here lorem ipsum dolor sit amet, consectetuer
-#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#         Cum sociis natoque penatibus et magnis dis parturient montes,
-#         nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#         pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-#         enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-#         error sit voluptatem accusantium doloremque laudantium, totam rem
-#         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-#         architecto beatae vitae dicta sunt explicabo.
+experiences:
+    - role: Software Engineer
+      time: 2017 - 2019
+      company: Inara Technologies Pvt. Pakistan
+      details: Durring my time in Inara I got wholesome experience in documenting, designing using BPMN models to implementing the enterprise systems,
+      integration and creation of tools using cutting edge technologies like Django as backend python framework and AngularJS as frontend. 
+      As for the database, I have worked with PostgreSQL and celery with rabbitMQ for Asynchronous Task execution. I started as a rookie and within three years ended up
+      training multiple employees all becasue of the trust and support of managemnt of our Progect Director [Hilal Afridi](https://www.linkedin.com/in/hilal-afridi-a0a8319)
+        
 
-#           - Bullet point
-#           - Bullet point 
 
 
 teachings:
@@ -92,6 +92,18 @@ teachings:
         link: #
         tagline: "NUST (2013-Fall Semester) Shumyl Bin Mansoor"
          
+   title: Research 
+    
+    assignments:
+    
+      - title: Research Associate  
+        link: http://blockchain.itu.edu.pk
+        tagline: "Blockchain based PKI Protocol with Dr. Muhammad Umar Janjua"
+        
+      - title: Research Assistant 
+        link: https://sysnet.lums.edu.pk
+        tagline: "Energy efficient IoT solutions for smart homes with Dr. Hamad Alizai"
+               
 
 awards:
     title: Awards
@@ -179,6 +191,15 @@ skills:
 
       - name: Illustrator & Photoshop
         level: 70%
+        
+      -name: Flutter 
+      level: 30%
+      
+      -name: Blockchain(Dapps using solidity) 
+      level: 25%
+      
+      -name: matplotlib & numpy 
+      level: 30%
 
 footer: >
     Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
