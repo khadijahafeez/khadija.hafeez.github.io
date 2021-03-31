@@ -47,7 +47,7 @@ career-profile:
       I am interested in exploring areas of Crptography particulaly Blockchain technology and System Design for Internet of Things (IoT). Prior to joining industry job,
       I was at [SysNet Lab](https://sysnet.lums.edu.pk), LUMS working on designing IoT systems for thermal comfort and energy-efficient built environments, with [Dr. Hamad Alizai](http://web.lums.edu.pk/~alizai/) .
 
-      In my free time I like to read books, code Jams and cook food. 
+      In my free time I like to read books, code for fun and cook food. 
       You can download my [CV](https://khadijahafeez.github.io/cv/).
       
 
@@ -111,7 +111,7 @@ awards:
         link: 
         tagline:
        
-      - title: Merit Based Scholarship for three semesters in BE-Software Engineering
+      - title: Merit Based Scholarship in BE-Software Engineering
         link:
         tagline:
          
@@ -198,7 +198,7 @@ skills:
         level: 25%
       
       - name: matplotlib & numpy 
-        level: 30%
+        level: 50%
 
 footer: >
     Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
