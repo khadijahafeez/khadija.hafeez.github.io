@@ -74,7 +74,7 @@ experiences:
     - role: Software Engineer
       time: 2017 - 2019
       company: Inara Technologies Pvt. Pakistan
-      details: Durring my time in Inara I got wholesome experience in documenting, designing using BPMN models to implementing the enterprise systems,integration and creation of tools using cutting edge technologies like Django as backend python framework and AngularJS as frontend. As for the database, I have worked with PostgreSQL and celery with rabbitMQ for Asynchronous Task execution. I started as a rookie and within three years ended up training multiple employees all becasue of the trust and support of managemnt of our Progect Director [Hilal Afridi](https://www.linkedin.com/in/hilal-afridi-a0a8319)
+      details: Designing and impelementing enterprize systems using BPMN models, Django as backend python framework and AngularJS as frontend.
 #     - role: Research Assistant
 #       time: 2015 - 2017
 #       company: [SysNet Lab](https://sysnet.lums.edu.pk), LUMS, Lahore
@@ -154,15 +154,21 @@ publications:
     intro: 
 
     papers:
+      - title: "”DPNCT: A Differential Private Noise Cancellation Scheme for Load Monitoring and Billing for Smart Meters”"
+        link: https://arxiv.org/pdf/2102.09458.pdf
+        authors: Khadija Hafeez, Mubashir Husain Rehmani, Donna O’Shea
+        conference: To appear in IEEE International Conference on Communications (ICC) 2021 - Workshop on Communication, Computing, and Networking in Cyber-Physical Systems (IEEE CCN-CPS 2021), Montreal, Canada, June 2021.
+
       - title: "”Inverting HVAC for Energy Efficient Thermal Comfort in Populous Emerging Countries”"
         link: http://web.lums.edu.pk/~alizai/pubs/2017-hafeez-hawadaar.pdf
         authors: Khadija Hafeez, Yasra Chandio, Abu Bakar, Ayesha Ali, Affan A. Syed, Tariq M. Jadoon, Muhammad Hamad Alizai
         conference: ACM International Conference on Systems for Energy-Efficient Built Environments (BuildSys), 2017 Best Paper Award (Audience Choice).
-
+      
       - title: "”Inverted HVAC: Saving the World, One Building at a Time”"
         link: https://tosn.acm.org
         authors: Samar Abbas, Abu Bakar, Yasra Chandio, Khadija Hafeez, Ayesha Ali, Tariq M. Jadoon, Muhammad Hamad Alizai
-        conference: "to appear at Special Issue of ACM Transaction on Sensor Networks (TOSN), 2018."
+        conference: "Special Issue of ACM Transaction on Sensor Networks (TOSN), 2018."
+        
 
       
 
