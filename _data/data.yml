@@ -42,7 +42,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am Khadija, a PhD. student working with [Dr. Mubashir Hussain Rehmani](https://scholar.google.com.pk/citations?user=x4OZtdAAAAAJ&hl=en) and [Dr. Donna Oshea](https://connectcentre.ie/people/donna-oshea/) at Nimbus Research Center, Cork Institue of Technology with research focus on preserving privacy of IoT devices data.
+      I am Khadija, a PhD. student working with [Dr. Mubashir Hussain Rehmani](https://scholar.google.com.pk/citations?user=x4OZtdAAAAAJ&hl=en) and [Dr. Donna Oshea](https://connectcentre.ie/people/donna-oshea/) at Nimbus Research Center, Munster Technological University (MTU), with research focus on preserving privacy of IoT devices data.
       I worked as Research Associate at Blockchain Lab Information Technology University Lahore for one year before starting my PhD. Previously, I have worked as a Software Engineera at [Inara Technologies](https://inara.pk/en/)for three years.  
       I am interested in exploring areas of Crptography particulaly Blockchain technology and System Design for Internet of Things (IoT). Prior to joining industry job,
       I was at [SysNet Lab](https://sysnet.lums.edu.pk),LUMS working on designing IoT systems for thermal comfort and energy-efficient built environments, with [Dr. Hamad Alizai](http://web.lums.edu.pk/~alizai/) .
@@ -54,7 +54,7 @@ career-profile:
 education:
 
     - degree: PhD in Computer Science
-      university: Cork Institute of Technology
+      university: Munster Technological University
       time: 2019 - Present
       
     - degree: MS in Computer Science
@@ -67,11 +67,21 @@ education:
  
 
 experiences:
+    - role: Research Associate
+      time: 2019 - 2020
+      company: Blochain Lab, ITU, Lahore
+      details: Blockchain based PKI Protocol with Dr. Muhammad Umar Janjua
+      
     - role: Software Engineer
       time: 2017 - 2019
       company: Inara Technologies Pvt. Pakistan
       details: Durring my time in Inara I got wholesome experience in documenting, designing using BPMN models to implementing the enterprise systems,integration and creation of tools using cutting edge technologies like Django as backend python framework and AngularJS as frontend. As for the database, I have worked with PostgreSQL and celery with rabbitMQ for Asynchronous Task execution. I started as a rookie and within three years ended up training multiple employees all becasue of the trust and support of managemnt of our Progect Director [Hilal Afridi](https://www.linkedin.com/in/hilal-afridi-a0a8319)
-
+    
+    - role: Research Assistant
+      time: 2015 - 2017
+      company: [SysNet Lab](https://sysnet.lums.edu.pk), LUMS, Lahore
+      details: Energy efficient IoT solutions for smart homes with Dr. Hamad Alizai
+      
 
 
 teachings:
@@ -87,18 +97,8 @@ teachings:
       - title: Object Oriented Programming with C++
         link: #
         tagline: "NUST (2013-Fall Semester) Shumyl Bin Mansoor"
-        
-      - title: Research Associate  
-        link: http://blockchain.itu.edu.pk
-        tagline: "Blockchain based PKI Protocol with Dr. Muhammad Umar Janjua"
-        
-      - title: Research Assistant 
-        link: https://sysnet.lums.edu.pk
-        tagline: "Energy efficient IoT solutions for smart homes with Dr. Hamad Alizai"
-              
-         
-
-               
+           
+       
 
 awards:
     title: Awards
